@@ -2,6 +2,12 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ---
 
+## Title
+
+Read-Me Generator
+
+---
+
 ## License & copyright
 
 Roberto Monplaisr Trilogy BootCamp
